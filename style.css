@@ -1,0 +1,31 @@
+/* BACKGROUND STYLING */
+/* BACKGROUND IMAGE AND A GRADIENT, CAN I DO IT? LET'S FIND OUT*/
+html{
+	background-image: linear-gradient(cyan,blue);
+	background-repeat: no-repeat;
+}
+
+/* TEXT STYLING */
+h1,p{
+	color: yellow;
+	font-family: monospace;
+	text-align: center;
+}
+
+h1{
+	text-decoration: underline;
+	font-size: 90px;
+}
+
+p{
+	font-size: 30px;
+}
+
+
+/* HOMEPAGE IMAGES */
+img{
+	width: 300px;
+	height: 300px;
+	border: solid 6px yellow;
+	border-radius: 3px;
+}
