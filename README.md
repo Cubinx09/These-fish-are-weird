@@ -1,2 +1,2 @@
-# The Ocean is a very mysterious place...
+# The Ocean is a very mysterious place..
 Have you ever seen a fish propel itself? Have bones that look like spider legs? Have human-like teeth? No? You're in luck!

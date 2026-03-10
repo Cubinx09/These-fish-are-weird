@@ -1,0 +1,10 @@
+/* BACKGROUNG STYLING */
+html{
+	background: linear-gradient(lightblue, blue);
+}
+
+
+/* SOURCE LIST STYLING */
+.sources{
+	background: yellow;
+}
